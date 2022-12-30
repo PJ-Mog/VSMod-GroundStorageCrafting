@@ -1,14 +1,14 @@
 {
   "type": "Code",
-  "name": "TEMPLATE",
-  "modid": "template",
+  "name": "Ground Storage Crafting",
+  "modid": "ground-storage-crafting",
   "version": "1.0.0",
-  "description": "A template project for Vintage Story modding.",
-  "website": "https://github.com/PJ-Mog/VSMod-TEMPLATE",
+  "description": "A system for interacting with items placed on the ground.",
+  "website": "https://github.com/PJ-Mog/VSMod-GroundStorageCrafting",
   "authors": [ "JapanHasRice" ],
   "contributors": [],
   "dependencies": {
-    "game": "",
+    "game": "1.17.9",
     "survival": ""
   },
   "side": "Universal",
